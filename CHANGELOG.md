@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/idetik/coretik-faker/compare/v1.1.0...v1.1.1) (2022-11-08)
+
+
+### Bug Fixes
+
+* move fakerphp to require dependencies ([933f7a9](https://github.com/idetik/coretik-faker/commit/933f7a947f8d9b1a796999334714b2d9a43749d7))
+
 # [1.1.0](https://github.com/idetik/coretik-faker/compare/v1.0.0...v1.1.0) (2022-11-08)
 
 
