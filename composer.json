@@ -1,0 +1,21 @@
+{
+    "name": "idetik/coretik-faker",
+    "description": "Faker service",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "idetik/coretik": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "David",
+            "email": "david.daugreilh@idetik.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Coretik\\Faker\\": ["src"] }
+    },
+    "require-dev": {
+        "fakerphp/faker": "2.x-dev"
+    }
+}
