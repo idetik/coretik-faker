@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/idetik/coretik-faker/compare/v1.1.1...v1.1.2) (2022-11-08)
+
+
+### Bug Fixes
+
+* downgrade faker ([ec1cdaa](https://github.com/idetik/coretik-faker/commit/ec1cdaacef90f5d50533a23a208c87b7dcef7712))
+
 ## [1.1.1](https://github.com/idetik/coretik-faker/compare/v1.1.0...v1.1.1) (2022-11-08)
 
 

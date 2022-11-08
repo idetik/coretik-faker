@@ -1,6 +1,6 @@
 {
     "name": "@idetik-group/coretik-faker",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Wordpress coretik - service faker",
     "scripts": {
         "semantic-release": "semantic-release"
