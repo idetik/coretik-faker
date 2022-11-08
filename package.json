@@ -1,13 +1,13 @@
 {
-    "name": "@idetik-group/coretik-navigation",
+    "name": "@idetik-group/coretik-faker",
     "version": "1.0.0",
-    "description": "Wordpress coretik - service navigation",
+    "description": "Wordpress coretik - service faker",
     "scripts": {
         "semantic-release": "semantic-release"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/idetik/coretik-navigation.git"
+        "url": "https://github.com/idetik/coretik-faker.git"
     },
     "author": "David Daugreilh, @idetik",
     "license": "ISC",

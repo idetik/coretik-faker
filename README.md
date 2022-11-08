@@ -1,3 +1,3 @@
-# Coretik service navigation
+# Coretik faker service
 
-to manage models, queries, services and more...
+Provide faker data for Wordpress
