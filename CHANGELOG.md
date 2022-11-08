@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/idetik/coretik-faker/compare/v1.0.0...v1.1.0) (2022-11-08)
+
+
+### Features
+
+* add Generator ([ca46a87](https://github.com/idetik/coretik-faker/commit/ca46a872bdf267478d5833f2436adbf685bbae33))
+
 # 1.0.0 (2022-11-08)
 
 
