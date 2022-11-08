@@ -3,9 +3,10 @@
     "description": "Faker service",
     "type": "library",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "idetik/coretik": "^1.0",
-        "fakerphp/faker": "2.x-dev"
+        "fakerphp/faker": "^1.20"
     },
     "authors": [
         {
