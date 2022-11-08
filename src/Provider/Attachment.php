@@ -1,6 +1,6 @@
 <?php
 
-namespace Coretik\Faker;
+namespace Coretik\Faker\Provider;
 
 use Faker\Provider\Base;
 
