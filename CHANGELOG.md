@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/idetik/coretik-faker/compare/v1.1.2...v1.1.3) (2023-04-07)
+
+
+### Bug Fixes
+
+* remove require coretik & bump fakerphp ([7562a7b](https://github.com/idetik/coretik-faker/commit/7562a7b430d86ca6cb2d657d6844dc858f92b03e))
+
 ## [1.1.2](https://github.com/idetik/coretik-faker/compare/v1.1.1...v1.1.2) (2022-11-08)
 
 
