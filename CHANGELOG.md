@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/idetik/coretik-faker/compare/v1.1.4...v1.1.5) (2024-01-02)
+
+
+### Bug Fixes
+
+* Update node.js.yml ([bdee9e8](https://github.com/idetik/coretik-faker/commit/bdee9e837e5e9ab6a661c71bd6754c7e72a92e5c))
+
 ## [1.1.4](https://github.com/idetik/coretik-faker/compare/v1.1.3...v1.1.4) (2024-01-02)
 
 
