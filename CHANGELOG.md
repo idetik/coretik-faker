@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/idetik/coretik-faker/compare/v1.1.3...v1.1.4) (2024-01-02)
+
+
+### Bug Fixes
+
+* fake post type ([8aab94f](https://github.com/idetik/coretik-faker/commit/8aab94f19a1c0a4bad8e930c8bf5e1dee27fb1c2))
+
 ## [1.1.3](https://github.com/idetik/coretik-faker/compare/v1.1.2...v1.1.3) (2023-04-07)
 
 
